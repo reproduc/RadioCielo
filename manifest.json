@@ -1,0 +1,40 @@
+{
+	"name": "Radio Cielo",
+	"short_name": "Radio Cielo",
+	"description": "Siempre Contigo  24/7.",
+	"icons" : [
+		 {
+            "src": "imagenes/app.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "imagenes/app.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "imagenes/app.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "imagenes/app.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        }
+	],
+	"start_url": "./?mode=pwa",
+	"theme_color": "#00b6aa",
+	"background_color": "#00b6aa",
+	"orientation": "portrait",
+	"display": "fullscreen",
+	"display_override": [
+		"fullscreen"
+	],
+	"lang": "ru",
+	"dir": "ltr",
+	"categories": [
+		"music"
+	]
+}
