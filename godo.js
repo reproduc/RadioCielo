@@ -51,7 +51,7 @@
             metadatatechnic: "creativo-agencia-metadato",
             streamurl: streamUrl, // Referencia a la variable global
             streamtype: streamtype,
-            idzeno: "yuxcf1gzy5iuv",
+            idzeno: "kfjyautiyevvv",
             shoutcastpath: "/stream",
             debug: "false",
             autoplay: "true",
@@ -75,5 +75,6 @@
             chatModal.classList.remove("show");
         });
     }
+
 
 
