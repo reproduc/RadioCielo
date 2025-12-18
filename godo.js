@@ -48,6 +48,7 @@
             visualizeropacity: "0.0",
             itunestoken: "1000lIPN",
             volume: "100",
+            metadatatechnic: "creativo-agencia-metadato",
             streamurl: streamUrl, // Referencia a la variable global
             streamtype: streamtype,
             shoutcastpath: "/stream",
@@ -73,3 +74,4 @@
             chatModal.classList.remove("show");
         });
     }
+
