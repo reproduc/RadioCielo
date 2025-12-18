@@ -24,7 +24,7 @@
             "type": "image/png"
         }
 	],
-	"start_url": "./?mode=pwa",
+	"start_url": "/RadioCielo/?mode=pwa",
 	"theme_color": "#00b6aa",
 	"background_color": "#00b6aa",
 	"orientation": "portrait",
@@ -38,3 +38,4 @@
 		"music"
 	]
 }
+
